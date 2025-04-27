@@ -87,11 +87,3 @@ Here's a screenshot of the final webpage:
 * This project was completed as part of the ApexPlanet Software Pvt Ltd internship program.
 * The webpage is designed to be a simple demonstration of HTML, CSS, and JavaScript basics.
 
-
-
-
-## Notes
-
-* This project was completed as part of the ApexPlanet Software Pvt Ltd internship program.
-* The webpage is designed to be a simple demonstration of HTML, CSS, and JavaScript basics.
-
